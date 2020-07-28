@@ -1,5 +1,5 @@
 # Data-Analysis-Learning
-Projects I worked on while learning Data Science
+This repository contains all the projects being worked on as I learn Data Science.
 The main language of learning is currently Python3
 
 For better description of the learning journey feel free to check out the wiki page, also linked below:
